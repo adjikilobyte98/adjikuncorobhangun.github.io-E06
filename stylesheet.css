@@ -53,10 +53,13 @@ body{
     background-color: #d0ffb3;
 }
 
+.main-text{
+    text-align: center;
+}
 
 .box1{
   float: left;
-  margin-left:auto;
+  margin-left:11%;
   border-radius: 25px;
   background: #60df16;
   padding: 20px;
